@@ -1,5 +1,5 @@
-<h1 align="center">My name is Nikola Džajević</h1>
-<h3 align="center">Student at Faculty of Engineering University of Kragujevac.</h3>
+<h1 align="center">Hi, my name is Nikola Džajević</h1>
+<h3 align="center">Currently studying software engineering on Faculty of Engineering University of Kragujevac.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

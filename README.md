@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Nikola Džajević</h1>
+<h1 align="center">Hi, my name is Nikola</h1>
 <h3 align="center">Currently studying software engineering on Faculty of Engineering University of Kragujevac.</h3>
 
 - All of my projects are available at [www.github.com/dzaja123](www.github.com/dzaja123)

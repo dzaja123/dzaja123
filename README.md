@@ -2,7 +2,7 @@
 <h3 align="center">Currently studying software engineering on Faculty of Engineering University of Kragujevac.</h3>
 
 - All of my projects are available at [www.github.com/dzaja123](www.github.com/dzaja123)
-- E-mail **nikoladzajevickg@gmail.com**
+- E-mail [nikoladzajevickg@gmail.com](nikoladzajevickg@gmail.com)
 
 <h3 align="center">Languages and Tools:</h3>
 

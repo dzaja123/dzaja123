@@ -1,6 +1,9 @@
 <h1 align="center">Hi, my name is Nikola</h1>
 <h3 align="center">Currently studying software engineering on Faculty of Engineering University of Kragujevac.</h3>
 
+<h3><img alt="GitHub followers" src="https://img.shields.io/github/followers/dzaja123?style=social"></h3>
+<h3><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dzaja123?style=social"></h3>
+
 - All of my projects are available [here](https://github.com/dzaja123?tab=repositories).
 
 <h3 align="center">Programming Languages and Tools:</h3>

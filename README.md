@@ -26,4 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&show_icons=true&locale=en&theme=merko" alt="dzaja123" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&locale=en&theme=merko&custom_title=Nikola's GitHub stats" alt="dzaja123" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dzaja123&theme=merko" alt="dzaja123" /></p>
+
 

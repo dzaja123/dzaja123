@@ -3,8 +3,10 @@
 
 - All of my projects are available [here](https://github.com/dzaja123?tab=repositories).
 
-<h3 align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/dzaja123?style=social"></h3>
-<h3 align="center"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dzaja123?style=social"></h3>
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dzaja123?style=social"></h3>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dzaja123?style=social"></h3>
+</p>
 
 <h3 align="center">Programming Languages and Tools:</h3>
 
@@ -29,8 +31,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&show_icons=true&locale=en&theme=merko" alt="dzaja123" />
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&locale=en&theme=merko&custom_title=Nikola's GitHub stats" alt="dzaja123" />
 </p>
 

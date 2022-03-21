@@ -3,11 +3,6 @@
 
 - All of my projects are available [here](https://github.com/dzaja123?tab=repositories).
 
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dzaja123?style=social"></h3>
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dzaja123?style=social"></h3>
-</p>
-
 <h3 align="center">Programming Languages and Tools: </h3>
 
 <p align="center"> 

@@ -1,8 +1,9 @@
 <div align="center">
-
+  
 ![GitHub Views](https://komarev.com/ghpvc/?username=dzaja123)
-
 </div>
+
+---
 
 <h3 align="center">Programming Languages and Tools: </h3>
 

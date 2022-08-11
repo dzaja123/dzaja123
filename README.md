@@ -1,9 +1,10 @@
 <div align="center">
   
 ![GitHub Views](https://komarev.com/ghpvc/?username=dzaja123)
+
 </div>
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 align="center">Programming Languages and Tools: </h3>
 
@@ -29,7 +30,7 @@
 <a> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&locale=en&theme=merko&custom_title=Nikola's GitHub stats" alt="dzaja123" /> 
@@ -43,4 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&layout=compact&show_icons=true&locale=en&theme=merko" alt="dzaja123" />
 </p>
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)

@@ -31,19 +31,20 @@
 </p>
 
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&theme=blue-green" alt="dzaja123" /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&theme=blue-green" alt="dzaja123" /> 
+</p>
+   
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaja123&show_icons=true&locale=en&theme=blue-green" alt="dzaja123" />
 </p>
-  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&layout=compact&show_icons=true&locale=en&theme=blue-green" alt="dzaja123" />
 </p>
 
-<div align="center">
-  
-![GitHub Views](https://komarev.com/ghpvc/?username=dzaja123)
-
-</div>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=dzaja123" alt="dzaja123" />
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="dzaja123" />

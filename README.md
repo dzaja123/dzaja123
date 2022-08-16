@@ -44,6 +44,7 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=dzaja123" alt="dzaja123" />
+ <img src="https://img.shields.io/github/followers/dzaja123?label=Followers&style=social" alt="dzaja123">
 </p>
 
 <p align="center">

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Nikola,%20Software%20Engineering%20student%20&font=Fira%20Code&center=true&width=700&height=46&color=0080ff&vCenter=true&size=22"></a>
+<a><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Nikola,%20Software%20Engineer%20&font=Fira%20Code&center=true&width=700&height=46&color=0080ff&vCenter=true&size=22"></a>
 </p>
 
 <h3 align="center">Programming Languages and Tools: </h3>

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="dzaja123" />
+<img src="assets/rainbow.png" alt="dzaja123" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="dzaja123" />
+<img src="assets/rainbow.png" alt="dzaja123" />
 </p>
 
 <p align="center">
@@ -52,5 +52,5 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="dzaja123" />
+<img src="assets/rainbow.png" alt="dzaja123" />
 </p>

@@ -54,3 +54,7 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=dzaja123"> 
  <img src="https://img.shields.io/github/followers/dzaja123?label=Followers&style=social" alt="dzaja123">
 </p>
+
+<p align="center">
+<img src="assets/bottom.gif" alt="dzaja123" />
+</p>

@@ -11,7 +11,6 @@
 <p align="center"> 
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
 <a> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a>  
-<a> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a> 
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/> </a>  
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> </a> 
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/> </a> 
@@ -20,6 +19,7 @@
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40"/> </a>
 <a> <img src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg" width="40" height="40"/> </a>
 <a> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" width="40" height="40"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="40" height="40"/> </a>
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/> </a> 
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a> 
 <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a> 

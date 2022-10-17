@@ -34,16 +34,15 @@
 <img src="assets/rainbow.png" alt="dzaja123" />
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&theme=blue-green" alt="dzaja123" /> 
-</p>
-   
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaja123&show_icons=true&locale=en&theme=blue-green" alt="dzaja123" />
-</p>
+<table align="center">
+  <tr>
+    <th> <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&theme=blue-green" alt="dzaja123" /> </th>
+    <th> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&layout=compact&show_icons=true&locale=en&hide=c&theme=blue-green&langs_count=10" alt="dzaja123" /> </th>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&layout=compact&show_icons=true&locale=en&hide=c&theme=blue-green&langs_count=10" alt="dzaja123" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaja123&show_icons=true&locale=en&theme=blue-green" alt="dzaja123" /> 
 </p>
 
 <p align="center">

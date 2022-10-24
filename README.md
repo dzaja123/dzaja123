@@ -32,7 +32,7 @@
 
 <table align="center">
   <tr>
-    <th> <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&theme=blue-green" alt="dzaja123" /> </th>
+    <th> <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&theme=blue-green&include_all_commits=true" alt="dzaja123" /> </th>
     <th> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&layout=compact&show_icons=true&locale=en&hide=c&theme=blue-green&langs_count=10" alt="dzaja123" /> </th>
   </tr>
 </table>

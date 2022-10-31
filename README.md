@@ -2,8 +2,6 @@
 <img src="assets/rainbow.png" alt="dzaja123" />
 </p>
 
-<h3 align="center"> Programming Languages and Tools: </h3>
-
 <p align="center"> 
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
 <a> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a>  
@@ -33,13 +31,15 @@
 <table align="center">
   <tr>
     <th> <img src="https://github-readme-stats.vercel.app/api?username=dzaja123&show_icons=true&theme=blue-green" alt="dzaja123" /> </th>
-    <th> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&layout=compact&show_icons=true&hide=c&theme=blue-green&langs_count=10" alt="dzaja123" /> </th>
+    <th> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaja123&show_icons=true&locale=en&theme=blue-green" alt="dzaja123" /> </th>
   </tr>
 </table>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaja123&show_icons=true&locale=en&theme=blue-green" alt="dzaja123" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaja123&layout=compact&show_icons=true&hide=c&theme=blue-green&langs_count=10" alt="dzaja123" />
 </p>
+
 
 <p align="center">
 <img src="assets/rainbow.png" alt="dzaja123" />
